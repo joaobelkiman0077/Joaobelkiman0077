@@ -2,7 +2,7 @@
 
 -🔭 Autalmente estou a procura de emprego
 
--🌱 Atualmente estou estudando Python
+-🌱 Atualmente estou estudando Python com foco em IA
 
 -📫 Contate-me no email: belkiman.programador@gmail.com
 
