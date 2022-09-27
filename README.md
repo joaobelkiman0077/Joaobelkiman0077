@@ -1,8 +1,8 @@
 ### Olá! Sou o Joao Belkiman
 
--🔭 Autalmente estou a procura de emprego
+-🔭 Autalmente estou trabalhando na Exed como Consultor ABAP 
 
--🌱 Atualmente estou estudando Python com foco em IA
+-🌱 Atualmente estou estudando Python com foco em IA e ABAP 
 
 -📫 Contate-me no email: belkiman.programador@gmail.com
 
