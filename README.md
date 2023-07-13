@@ -2,7 +2,7 @@
 
 -🔭 Autalmente estou trabalhando na Exed como Consultor ABAP 
 
--🌱 Atualmente estou estudando Python com foco em IA e ABAP 
+-🌱 Atualmente estou estudando Python com foco em IA, ABAP, BOPF, Fiori e SAP BTP, com foco em SAP CAP.
 
 -📫 Contate-me no email: belkiman.programador@gmail.com
 
